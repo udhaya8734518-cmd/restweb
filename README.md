@@ -479,14 +479,11 @@ Contact us.html
 ```
 
 ## OUTPUT:
-![alt text](<webapp/static/Screenshot 2025-10-06 230517.png>)
+<img width="1920" height="1080" alt="Screenshot 2025-10-06 230517" src="https://github.com/user-attachments/assets/be16f54d-e380-4ecd-96cc-393eaab6fb14" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-06 230905" src="https://github.com/user-attachments/assets/dfb967d3-6663-4c92-9abd-c085a636599d" />
 
-
-![alt text](<webapp/static/Screenshot 2025-10-06 230905.png>)
-
-![alt text](<webapp/static/Screenshot 2025-10-06 230953.png>)
-
-![alt text](<webapp/static/Screenshot 2025-10-06 231005.png>)
+<img width="1920" height="1080" alt="Screenshot 2025-10-06 230953" src="https://github.com/user-attachments/assets/ffcdfe31-ee29-40d8-8850-628bec0768df" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-06 231005" src="https://github.com/user-attachments/assets/68acc06c-0ac1-4ba4-b51e-fd7b15b016d8" />
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
